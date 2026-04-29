@@ -7,6 +7,9 @@ Built by Mckintosh Mpumelelo Moyo — MS Cybersecurity, Yeshiva University
 ---
 
 ## What This Project Is
+## 📽️ Project Demo
+
+![Hardware Security Risk Assessment Demo](demo.gif)
 
 This framework helps security analysts and GRC teams assess the security posture of embedded hardware products — such as smart building controllers, IoT devices, and industrial systems. It covers the full assessment lifecycle from initial scoping to risk scoring to remediation reporting.
 
