@@ -1,5 +1,5 @@
 # Hardware Security Assessment Report
-# Device: Crestron-Style Smart Building Controller (Fictional)
+# Device: Smart Building Controller (Fictional)
 # Author: Mckintosh Mpumelelo Moyo — MS Cybersecurity, Yeshiva University
 # Date: April 2026
 # Classification: SAMPLE / EDUCATIONAL USE ONLY
