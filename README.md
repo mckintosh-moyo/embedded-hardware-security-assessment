@@ -49,9 +49,17 @@ This project was built to reflect real-world GRC workflows used in hardware secu
 
 ---
 
-## How I Would Use This at Crestron
+## Industry Application
 
-Crestron builds embedded hardware products for smart buildings and automation systems. This framework directly supports the GRC activities described in Crestron's InfoSec Co-Op role — specifically security assessments of hardware products, vulnerability triage, policy development, and remediation planning for embedded platforms.
+This framework is directly applicable to any organization that 
+develops or manufactures embedded hardware products — including 
+smart building automation systems, medical devices, industrial 
+control systems, and IoT platforms.
+
+It supports GRC teams performing hardware security assessments, 
+vulnerability triage, policy development, and remediation planning 
+for embedded platforms — activities common across the 
+manufacturing, healthcare, defense, and building automation industries.
 
 ---
 
