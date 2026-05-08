@@ -11,7 +11,7 @@ Built by Mckintosh Mpumelelo Moyo — MS Cybersecurity, Yeshiva University
 
 This framework helps security analysts and GRC teams assess the security posture of embedded hardware products — such as smart building controllers, IoT devices, and industrial systems. It covers the full assessment lifecycle from initial scoping to risk scoring to remediation reporting.
 
-This project was built to reflect real-world GRC workflows used in hardware security teams, specifically aligned to the responsibilities of an Information Security Analyst supporting embedded platform security.
+This project was developed to apply GRC assessment methodology to embedded hardware platforms using publicly available security frameworks including NIST CSF 2.0, OWASP Embedded Application Security, and NIST SP 800-82.
 
 ---
 
